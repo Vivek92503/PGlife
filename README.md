@@ -51,3 +51,15 @@ Easy-to-use contact form for users to get in touch with PG owners directly from 
    - JWT for secure authentication
 
 # Screenshots
+![s1](https://github.com/Vivek92503/PGlife/assets/156999897/8b6db12c-f29c-4d11-a35b-172d4406d285)
+
+![s2](https://github.com/Vivek92503/PGlife/assets/156999897/f0c83371-057d-42de-9e5f-af40c100bb18)
+
+![s3](https://github.com/Vivek92503/PGlife/assets/156999897/b5169353-a672-4bf7-af97-9be7cbbbcc50)
+
+![s4](https://github.com/Vivek92503/PGlife/assets/156999897/3e80e258-cf2e-4ba1-80f7-eb104ddf728b)
+
+![s5](https://github.com/Vivek92503/PGlife/assets/156999897/52a70ad2-7291-433b-8755-20b2c84686e8)
+
+![s6](https://github.com/Vivek92503/PGlife/assets/156999897/32e8872c-56fc-4f30-b2d7-dd3857e335a6)
+
